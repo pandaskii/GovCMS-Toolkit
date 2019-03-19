@@ -1,0 +1,19 @@
+{
+    "name": "pandaski/govcms-toolkit",
+    "description": "A collection of tools for GovCMS site with lagoon.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Zhao",
+            "email": "pandaski@outlook.com.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+        "platform": {
+            "php": "7.1.26"
+        }
+    }
+}
